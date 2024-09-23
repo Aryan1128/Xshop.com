@@ -4,6 +4,7 @@ Xshop Inc is an E-Commerce Website.
 
 
 
+Hosted link - https://aryan1128.github.io/Xshop.com/
 
 ## Landing Page 
 
